@@ -27,7 +27,7 @@ knitr::opts_chunk$set(cache=TRUE, echo = FALSE, message=FALSE, warning=FALSE) # 
 - The combined sperm and egg (zygote) contains all the genetic information (DNA) needed to form a baby (half from mother’s egg, half from father’s sperm).
 
 # First trimester<br>(3-12 weeks)
-![click down arrow (or <code>n</code>)](images/revealjs_down_arrow.png)
+![click down arrow (or <code>n</code>)](../images/revealjs_down_arrow.png)
 
 ## Week 3 {data-background=images/B_wk3.png}
 - The zygote multiplies into a ball of cells (blastocyst) while it travels down the fallopian tube. Once the blastocyst reaches the uterus, it buries itself into the womb (implantation).
@@ -50,7 +50,7 @@ knitr::opts_chunk$set(cache=TRUE, echo = FALSE, message=FALSE, warning=FALSE) # 
 
 # Second trimester<br>(13-27 weeks)
 The fetus begins to look more like a baby.<br>
-![click down arrow (or <code>n</code>)](images/revealjs_down_arrow.png)
+![click down arrow (or <code>n</code>)](../images/revealjs_down_arrow.png)
 
 ## Week 13-17
 - Week 13: baby is beginning to make urine and release it into the amniotic sac as amniotic fluid.
@@ -70,7 +70,7 @@ The fetus begins to look more like a baby.<br>
 
 # Third trimester (28-40 weeks) {data-background=images/B_28-40wk.png}
 Development of the baby continues during the third trimester. The baby will gain more weight, and prepare for delivery.<br>
-![click down arrow (or <code>n</code>)](images/revealjs_down_arrow.png)
+![click down arrow (or <code>n</code>)](../images/revealjs_down_arrow.png)
 
 ## Week 28-32 {data-background=images/B_28-40wk.png}
 - Week 28: baby's eyes partially open.
