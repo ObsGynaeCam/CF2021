@@ -1,0 +1,85 @@
+---
+title: "<font color='black'>It takes three to tango:</font>"
+subtitle: "<font color='black'>the baby!</font>"
+author: |
+  | [Dept. of Obs & Gynae](https://www.obgyn.cam.ac.uk/){target="_blank"}
+  | [Clinical School](https://www.medschl.cam.ac.uk/)
+  | [University of Cambridge](https://www.cam.ac.uk)
+#date: "`r Sys.Date()`"
+date: "1 Mar 2021"
+output: 
+    revealjs::revealjs_presentation: # global option _output.yaml
+        theme: serif # [white, black, sky, simple, league, night, moon, solarized]
+---
+```{r setup, include=FALSE, message=FALSE, warning=FALSE}
+library(knitr)
+knitr::opts_chunk$set(cache=TRUE, echo = FALSE, message=FALSE, warning=FALSE) # set global options
+```
+
+# What is gestation? {data-background=images/B_preg1.png}
+- Gestation is the period of time between conception and birth when a baby grows and develops inside the mother’s womb.
+- A normal gestation lasts 37 to 42 weeks.
+- Gestational age is measured (in weeks) from the first day of mum’s last menstrual cycle. 
+- During weeks 1 and 2, a woman is not yet pregnant (her body is preparing for a pregnancy).
+
+# Fertilisation (or conception) {data-background=images/B_wk2.png}
+- At the end of week 2, an egg is released from an ovary. During intercourse, sperm enters the vagina, then travels through the uterus into the fallopian tubes. A single sperm enters the egg (fertilization). 
+- The combined sperm and egg (zygote) contains all the genetic information (DNA) needed to form a baby (half from mother’s egg, half from father’s sperm).
+
+# First trimester<br>(3-12 weeks)
+
+## Week 3 {data-background=images/B_wk3.png}
+- The zygote multiplies into a ball of cells (blastocyst) while it travels down the fallopian tube. Once the blastocyst reaches the uterus, it buries itself into the womb (implantation).
+
+## What are twin babies? {data-background=images/B_twin_baby.png}
+- Identical twins happen when 1 fertilised embryo splits into 2. 
+- They have same sex, same genes and look very alike.
+- Non-identical twins happen when 2 eggs are fertilised by 2 sperm at the same time. 
+- They do not have same genes or appearance and may be of different sex.
+
+## Week 4-6 {data-background=images/B_wk6.png}
+- Week 4: the ball of cells is now officially a human embryo. A pregnant woman is now able to get a positive result on a home pregnancy test. The baby is the size of a poppy seed.
+- Week 5: the circulatory system is beginning to form, and the tiny "heart" will start to beat this week. The baby is the size of a sesame seed.
+- Week 6: the kidney, intestines and brain are beginning to develop. The baby has a tail and is the size of a lentil.
+
+## Week 7-12 {data-background=images/B_wk10.png}
+- Week 7: the arms and legs are starting to form. The baby is the size of a blueberry.
+- Week 8: the lungs are starting to develop. The baby is the size of a kidney bean.
+- Weeks 9–12: all baby’s organs are in place. From week 10 until birth, the baby is called a fetus.
+
+# Second trimester<br>(13-27 weeks)
+The fetus begins to look more like a baby.
+
+## Week 13-17
+- Week 13: baby is beginning to make urine and release it into the amniotic sac as amniotic fluid.
+- Week 14: baby's sex is becoming apparent.
+- Week 17: baby's toenails develop.
+
+## Week 18-25 {data-background=images/B_wk25.png}
+- Week 18: baby begins to hear.
+- Week 23: fingerprints and footprints form.
+- Week 25: baby responds to sounds.
+- By end of second trimester the baby is 23 cm long from crown to rump and weigh nearly 2 pounds (820 grams).
+
+## Can I find out the sex of my baby? {data-background=images/B_baby_sex.png}
+- You usually can during your second routine ultrasound scan (18 to 21 weeks of pregnancy).
+- The sonographer will not be able to be 100% certain about your baby's sex.
+- You can also find out the sex of your baby using genetic tests.
+
+# Third trimester (28-40 weeks) {data-background=images/B_28-40wk.png}
+- Development of the baby continues during the third trimester. The baby will gain more weight, and prepare for delivery.
+- Important milestones:
+    - baby's eyes partially open (week 28)
+    - baby kicks and stretches (week 29)
+    - baby's hair grows (week 30)
+    - baby practices breathing (week 32)
+    - baby detects light (week 33)
+- Week 40: due date arrives. An average baby has a crown to rump length of around 36 cm and a weigh of 7 1/2 pounds (3,400 grams). It's normal to give birth before or after your due date.
+
+# References
+> - NHS: https://www.nhs.uk/conditions/pregnancy-and-baby/pregnancy-week-by-week/
+> - Mayo Clinic: https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/prenatal-care/art-20045302
+
+# Quiz
+<iframe src="https://sung.github.io/CamObsGynCSF2020/baby_scan.html" title="baby quiz" style="top:0; left:0; bottom:0; right:0; width:100%; height:550px; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">Your browser doesn't support iframes</iframe>
+<!--  <script data-quiz src="quizzes/baby-quiz.js"></script>-->

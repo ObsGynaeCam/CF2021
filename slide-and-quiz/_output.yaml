@@ -1,0 +1,15 @@
+    revealjs::revealjs_presentation:
+        template: revealjs-default-template.html
+        lib_dir: libs 
+        widescreen: true
+        incremental: true
+        transition: slide # [slide, concave, fade]
+        self_contained: false
+        reveal_plugins: ["chalkboard", "menu"] # 'menu' does not work with quiz
+        reveal_options:
+          slideNumber: true
+          menu:
+            side: left 
+          chalkboard:
+            theme: whiteboard
+              #toggleNotesButton: false

@@ -1,0 +1,122 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "An organ attached to the lining of the womb",
+        "A ring of muscle at the lower end of the womb which keeps the baby in place during pregnancy",
+        "A ball of cells formed from a fertilised egg"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "image": "images/zach-lucero-fwjsBPbRm4g-unsplash.jpg",
+      "image_credit": "Zach Lucero",
+      "number": 1,
+      "prompt": "What is the placenta?"
+    },
+    {
+      "answers": [
+        "the baby",
+        "the mother",
+        "the father"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "image": "images/sean-roy-wdx65cr1xJ8-unsplash.jpg",
+      "image_credit": "Sean Roy",
+      "number": 2,
+      "prompt": "The placental is from whom?"
+    },
+    {
+      "answers": [
+        "Grow into the wall of the womb",
+        "Provide oxygen and Nutrients to the growing baby and removes waste products",
+        "Protect the baby against infections",
+        "Protect the baby against the harmful effects of smoking and alcohol",
+        "Produce hormones which support pregnancy"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "image": "images/kelly-sikkema-IE8KfewAp-w-unsplash.jpg",
+      "image_credit": "Kelly Sikkema",
+      "number": 3,
+      "prompt": "What does the placenta NOT do?"
+    },
+    {
+      "answers": [
+        "By consulting a doctor before taking any medicines or supplements",
+        "By attending antenatal check-ups regularly",
+        "By avoiding smoking, drinking alcohol and using illegal drugs",
+        "All of the above"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "image": "images/q3bruce-mars-8Xhf30pcUpw-unsplash.jpg",
+      "image_credit": "Bruce Mars",
+      "number": 4,
+      "prompt": "How can the pregnant mother keep the placenta healthy?"
+    },
+    {
+      "answers": [
+        "Cells from the embryo",
+        "Cells from the lining of the womb"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "image": "images/sharon-mccutcheon-ZTSiID1W7-o-unsplash.jpg",
+      "image_credit": "Sharon McCutcheon",
+      "number": 5,
+      "prompt": "What forms the baby's side of the placenta?"
+    },
+    {
+      "answers": [
+        "Most bacteria",
+        "Nutrients and oxygen",
+        "Nicotine-Stress hormones",
+        "Antibodies"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "image": "images/tim-bish-WbC9XIlQb4k-unsplash.jpg",
+      "image_credit": "Tim Bish",
+      "number": 6,
+      "prompt": "What can NOT pass the placenta from the mother to the baby?"
+    },
+    {
+      "answers": [
+        "500g",
+        "1000g",
+        "1500g"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "image": "images/christian-bowen-I0ItPtIsVEE-unsplash.jpg",
+      "image_credit": "Christian Bowen",
+      "number": 7,
+      "prompt": "How much does a HEALTHY placenta weigh at full term?"
+    },
+    {
+      "answers": [
+        "To understand how to best keep the placenta healthy during pregnancy",
+        "To understand placental function and the impact of its disruption on fetal development",
+        "To develop new tests and therapies to prevent placenta-related problems in pregnancy",
+        "All of the above"
+      ],
+      "correct": {
+        "index": 3
+      },
+      "image": "images/zach-lucero-fwjsBPbRm4g-unsplash.jpg",
+      "image_credit": "Zach Lucero",
+      "number": 8,
+      "prompt": "Why are researchers interested in studying the placenta?"
+    }
+  ],
+  "title": "The placenta quiz",
+  "url": "https://sung.github.io/CamObsGynCSF2020"
+}

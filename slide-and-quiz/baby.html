@@ -1,35 +1,15 @@
 <!DOCTYPE html>
-<html$if(lang)$ lang="$lang$"$endif$$if(dir)$ dir="$dir$"$endif$>
+<html>
 <head>
   <meta charset="utf-8">
   <meta name="generator" content="pandoc">
-$for(author-meta)$
-  <meta name="author" content="$author-meta$" />
-$endfor$
-$if(date-meta)$
-  <meta name="dcterms.date" content="$date-meta$" />
-$endif$
-$if(keywords)$
-  <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$">
-$endif$
-  <title>$if(title-prefix)$$title-prefix$ – $endif$$pagetitle$</title>
+  <title>It takes three to tango:</title>
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-  <link rel="stylesheet" href="$revealjs-url$/css/reveal.css"/>
+  <link rel="stylesheet" href="libs/reveal.js-3.3.0.1/css/reveal.css"/>
 
-$if(highlightjs)$
-<link rel="stylesheet"
-      href="$highlightjs$/$if(highlightjs-theme)$$highlightjs-theme$$else$default$endif$.css"
-      $if(html5)$$else$type="text/css" $endif$/>
-<script src="$highlightjs$/highlight.js"></script>
-$endif$
 
-$if(highlighting-css)$
-<style type="text/css">
-$highlighting-css$
-</style>
-$endif$
 
     <!--https://stackoverflow.com/questions/30861845/how-to-use-two-column-layout-with-reveal-js-->
     <style type="text/css">
@@ -41,17 +21,8 @@ $endif$
     }
     </style>
 
-$if(theme)$
-<link rel="stylesheet" href="$revealjs-url$/css/theme/$theme$.css" id="theme">
-$endif$
+<link rel="stylesheet" href="libs/reveal.js-3.3.0.1/css/theme/serif.css" id="theme">
 
-$if(theme-dark)$
-<style type="text/css">
-.reveal section img {
-  background: rgba(255, 255, 255, 0.85);
-}
-</style>
-$endif$
 
   <!-- some tweaks to reveal css -->
   <style type="text/css">
@@ -65,14 +36,7 @@ $endif$
       padding: 0px 0px;
     }
 
-$if(center)$
 
-$else$
-     .reveal .title {
-        margin-top: 125px;
-        margin-bottom: 50px;
-     }
-$endif$
 
     .reveal table {
       border-width: 1px;
@@ -100,13 +64,9 @@ $endif$
       border-color: gray;
     }
 
-$if(plugin-menu)$
-$if(plugin-chalkboard)$
     .reveal .slide-menu-button {
       left: 105px !important;
     }
-$endif$
-$endif$
 
   </style>
 
@@ -121,11 +81,6 @@ $endif$
         }
     </style>
 
-$if(css)$
-$for(css)$
-    <link rel="stylesheet" href="$css$"/>
-$endfor$
-$endif$
 
 <!-- Printing and PDF exports -->
 <script id="paper-css" type="application/dynamic-css">
@@ -509,245 +464,186 @@ style.innerHTML = style_script;
 document.getElementsByTagName('head')[0].appendChild(style);
 </script>
 
-$for(header-includes)$
-    $header-includes$
-$endfor$
+    <script src="libs/header-attrs-2.4/header-attrs.js"></script>
+    <link href="libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+    <link href="libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 </head>
 <body>
-$for(include-before)$
-$include-before$
-$endfor$
   <div class="reveal">
     <div class="slides">
 
-$if(title)$
 <!--<section replaced by @sung-->
 <section data-background-image="images/pregnant-woman.png">
-    <h1 class="title">$title$</h1>
-$if(subtitle)$
-  <h1 class="subtitle">$subtitle$</h1>
-$endif$
-$for(author)$
-    <h2 class="author">$author$</h2>
-$endfor$
-$if(date)$
-    <h3 class="date">$date$</h3>
-$endif$
+    <h1 class="title"><font color='black'>It takes three to tango:</font></h1>
+  <h1 class="subtitle"><font color='black'>the baby!</font></h1>
+    <h2 class="author"><div class="line-block"><a href="https://www.obgyn.cam.ac.uk/" target="_blank">Dept. of Obs &amp; Gynae</a><br />
+<a href="https://www.medschl.cam.ac.uk/">Clinical School</a><br />
+<a href="https://www.cam.ac.uk">University of Cambridge</a></div></h2>
+    <h3 class="date">1 Mar 2021</h3>
     <div class="keyboard-usage">
         <p>(Press <code>?</code> for help, <code>n</code> and <code>p</code> for next and previous slide)</p>
     </div>
 </section>
-$endif$
-$if(toc)$
-<section id="$idprefix$TOC">
-$toc$
-$endif$
 </section>
 
-$body$
+<section id="what-is-gestation" class="title-slide slide level1" data-background="images/B_preg1.png">
+<h1 data-background="images/B_preg1.png">What is gestation?</h1>
+<ul>
+<li class="fragment">Gestation is the period of time between conception and birth when a baby grows and develops inside the mother’s womb.</li>
+<li class="fragment">A normal gestation lasts 37 to 42 weeks.</li>
+<li class="fragment">Gestational age is measured (in weeks) from the first day of mum’s last menstrual cycle.</li>
+<li class="fragment">During weeks 1 and 2, a woman is not yet pregnant (her body is preparing for a pregnancy).</li>
+</ul>
+</section>
+
+<section id="fertilisation-conception" class="title-slide slide level1" data-background="images/B_wk2.png">
+<h1 data-background="images/B_wk2.png">Fertilisation (conception)</h1>
+<ul>
+<li class="fragment">At the end of week 2, an egg is released from an ovary. During intercourse, sperm enters the vagina, then travels through the uterus into the fallopian tubes. A single sperm enters the egg (fertilization).</li>
+<li class="fragment">The combined sperm and egg (zygote) contains all the genetic information (DNA) needed to form a baby (half from mother’s egg, half from father’s sperm).</li>
+</ul>
+</section>
+
+<section>
+<section id="first-trimester-3-12-weeks" class="title-slide slide level1">
+<h1>First trimester<br>(3-12 weeks)</h1>
+
+</section>
+<section id="week-3" class="slide level2" data-background="images/B_wk3.png">
+<h2 data-background="images/B_wk3.png">Week 3</h2>
+<ul>
+<li class="fragment">The zygote multiplies into a ball of cells (blastocyst) while it travels down the fallopian tube. Once the blastocyst reaches the uterus, it buries itself into the womb (implantation).</li>
+</ul>
+</section>
+<section id="what-are-twin-babies" class="slide level2" data-background="images/B_twin_baby.png">
+<h2 data-background="images/B_twin_baby.png">What are twin babies?</h2>
+<ul>
+<li class="fragment">Identical twins happen when 1 fertilised embryo splits into 2.</li>
+<li class="fragment">They have same sex, same genes and look very alike.</li>
+<li class="fragment">Non-identical twins happen when 2 eggs are fertilised by 2 sperm at the same time.</li>
+<li class="fragment">They do not have same genes or appearance and may be of different sex.</li>
+</ul>
+</section>
+<section id="week-4-6" class="slide level2" data-background="images/B_wk6.png">
+<h2 data-background="images/B_wk6.png">Week 4-6</h2>
+<ul>
+<li class="fragment">Week 4: the ball of cells is now officially a human embryo. A pregnant woman is now able to get a positive result on a home pregnancy test. The baby is the size of a poppy seed.</li>
+<li class="fragment">Week 5: the circulatory system is beginning to form, and the tiny “heart” will start to beat this week. The baby is the size of a sesame seed.</li>
+<li class="fragment">Week 6: the kidney, intestines and brain are beginning to develop. The baby has a tail and is the size of a lentil.</li>
+</ul>
+</section>
+<section id="week-7-12" class="slide level2" data-background="images/B_wk10.png">
+<h2 data-background="images/B_wk10.png">Week 7-12</h2>
+<ul>
+<li class="fragment">Week 7: the arms and legs are starting to form. The baby is the size of a blueberry.</li>
+<li class="fragment">Week 8: the lungs are starting to develop. The baby is the size of a kidney bean.</li>
+<li class="fragment">Weeks 9–12: all baby’s organs are in place. From week 10 until birth, the baby is called a fetus.</li>
+</ul>
+</section></section>
+<section>
+<section id="second-trimester-13-27-weeks" class="title-slide slide level1">
+<h1>Second trimester<br>(13-27 weeks)</h1>
+<ul>
+<li>The fetus begins to look more like a baby.</li>
+</ul>
+</section>
+<section id="week-13-17" class="slide level2">
+<h2>Week 13-17</h2>
+<ul>
+<li class="fragment">Week 13: baby is beginning to make urine and release it into the amniotic sac as amniotic fluid.</li>
+<li class="fragment">Week 14: baby’s sex is becoming apparent.</li>
+<li class="fragment">Week 17: baby’s toenails develop.</li>
+</ul>
+</section>
+<section id="week-18-25" class="slide level2" data-background="images/B_wk25.png">
+<h2 data-background="images/B_wk25.png">Week 18-25</h2>
+<ul>
+<li class="fragment">Week 18: baby begins to hear.</li>
+<li class="fragment">Week 23: fingerprints and footprints form.</li>
+<li class="fragment">Week 25: baby responds to sounds.</li>
+<li class="fragment">By end of second trimester the baby is 23 cm long from crown to rump and weigh nearly 2 pounds (820 grams).</li>
+</ul>
+</section>
+<section id="can-i-find-out-the-sex-of-my-baby" class="slide level2" data-background="images/B_baby_sex.png">
+<h2 data-background="images/B_baby_sex.png">Can I find out the sex of my baby?</h2>
+<ul>
+<li class="fragment">You usually can during your second routine ultrasound scan (18 to 21 weeks of pregnancy).</li>
+<li class="fragment">The sonographer will not be able to be 100% certain about your baby’s sex.</li>
+<li class="fragment">You can also find out the sex of your baby using genetic tests.</li>
+</ul>
+</section></section>
+<section id="third-trimester-28-40-weeks" class="title-slide slide level1" data-background="images/B_28-40wk.png">
+<h1 data-background="images/B_28-40wk.png">Third trimester<br>(28-40 weeks)</h1>
+<ul>
+<li class="fragment">Development of the baby continues during the third trimester. The baby will gain more weight, and prepare for delivery.</li>
+<li class="fragment">Important milestones:
+<ul>
+<li class="fragment">baby’s eyes partially open (week 28)</li>
+<li class="fragment">baby kicks and stretches (week 29)</li>
+<li class="fragment">baby’s hair grows (week 30)</li>
+<li class="fragment">baby practices breathing (week 32)</li>
+<li class="fragment">baby detects light (week 33)</li>
+</ul></li>
+<li class="fragment">Week 40: due date arrives. An average baby has a crown to rump length of around 36 cm and a weigh of 7 1/2 pounds (3,400 grams). It’s normal to give birth before or after your due date.</li>
+</ul>
+</section>
+
+<section id="references" class="title-slide slide level1">
+<h1>References</h1>
+<ul>
+<li>NHS: <a href="https://www.nhs.uk/conditions/pregnancy-and-baby/pregnancy-week-by-week/" class="uri">https://www.nhs.uk/conditions/pregnancy-and-baby/pregnancy-week-by-week/</a></li>
+<li>Mayo Clinic: <a href="https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/prenatal-care/art-20045302" class="uri">https://www.mayoclinic.org/healthy-lifestyle/pregnancy-week-by-week/in-depth/prenatal-care/art-20045302</a></li>
+</ul>
+</section>
+
+<section id="quiz" class="title-slide slide level1">
+<h1>Quiz</h1>
+<iframe src="https://sung.github.io/CamObsGynCSF2020/baby_scan.html" title="baby quiz" style="top:0; left:0; bottom:0; right:0; width:100%; height:550px; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">
+Your browser doesn’t support iframes
+</iframe>
+<!--  <script data-quiz src="quizzes/baby-quiz.js"></script>-->
+</section>
     </div>
   </div>
 
-  <script src="$revealjs-url$/lib/js/head.min.js"></script>
-  <script src="$revealjs-url$/js/reveal.js"></script>
+  <script src="libs/reveal.js-3.3.0.1/lib/js/head.min.js"></script>
+  <script src="libs/reveal.js-3.3.0.1/js/reveal.js"></script>
 
   <script>
 
       // Full list of configuration options available at:
       // https://github.com/hakimel/reveal.js#configuration
       Reveal.initialize({
-$if(controls)$
-        // Display controls in the bottom right corner
-        controls: $controls$,
-$endif$
-$if(progress)$
-        // Display a presentation progress bar
-        progress: $progress$,
-$endif$
-$if(slideNumber)$
         // Display the page number of the current slide
-        slideNumber: $slideNumber$,
-$endif$
-$if(history)$
+        slideNumber: true,
         // Push each slide change to the browser history
-        history: $history$,
-$endif$
-$if(keyboard)$
-        // Enable keyboard shortcuts for navigation
-        keyboard: $keyboard$,
-$endif$
-$if(overview)$
-        // Enable the slide overview mode
-        overview: $overview$,
-$endif$
-$if(center)$
+        history: true,
         // Vertical centering of slides
-        center: $center$,
-$endif$
-$if(touch)$
-        // Enables touch navigation on devices with touch input
-        touch: $touch$,
-$endif$
-$if(loop)$
-        // Loop the presentation
-        loop: $loop$,
-$endif$
-$if(rtl)$
-        // Change the presentation direction to be RTL
-        rtl: $rtl$,
-$endif$
-$if(fragments)$
-        // Turns fragments on and off globally
-        fragments: $fragments$,
-$endif$
-$if(embedded)$
-        // Flags if the presentation is running in an embedded mode,
-        // i.e. contained within a limited portion of the screen
-        embedded: $embedded$,
-$endif$
-$if(help)$
-        // Flags if we should show a help overlay when the questionmark
-        // key is pressed
-        help: $help$,
-$endif$
-$if(autoSlide)$
-        // Number of milliseconds between automatically proceeding to the
-        // next slide, disabled when set to 0, this value can be overwritten
-        // by using a data-autoslide attribute on your slides
-        autoSlide: $autoSlide$,
-$endif$
-$if(autoSlideStoppable)$
-        // Stop auto-sliding after user input
-        autoSlideStoppable: $autoSlideStoppable$,
-$endif$
-$if(mouseWheel)$
-        // Enable slide navigation via mouse wheel
-        mouseWheel: $mouseWheel$,
-$endif$
-$if(hideAddressBar)$
-        // Hides the address bar on mobile devices
-        hideAddressBar: $hideAddressBar$,
-$endif$
-$if(previewLinks)$
-        // Opens links in an iframe preview overlay
-        previewLinks: $previewLinks$,
-$endif$
-$if(transition)$
+        center: false,
         // Transition style
-        transition: '$transition$', // none/fade/slide/convex/concave/zoom
-$endif$
-$if(transitionSpeed)$
-        // Transition speed
-        transitionSpeed: '$transitionSpeed$', // default/fast/slow
-$endif$
-$if(backgroundTransition)$
+        transition: 'slide', // none/fade/slide/convex/concave/zoom
         // Transition style for full page slide backgrounds
-        backgroundTransition: '$backgroundTransition$', // none/fade/slide/convex/concave/zoom
-$endif$
-$if(viewDistance)$
-        // Number of slides away from the current that are visible
-        viewDistance: $viewDistance$,
-$endif$
-$if(parallaxBackgroundImage)$
-        // Parallax background image
-        parallaxBackgroundImage: '$parallaxBackgroundImage$', // e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"
-$endif$
-$if(parallaxBackgroundSize)$
-        // Parallax background size
-        parallaxBackgroundSize: '$parallaxBackgroundSize$', // CSS syntax, e.g. "2100px 900px"
-$endif$
-$if(parallaxBackgroundHorizontal)$
-        // Amount to move parallax background (horizontal and vertical) on slide change
-        // Number, e.g. 100
-        parallaxBackgroundHorizontal: '$parallaxBackgroundHorizontal$',
-$endif$
-$if(parallaxBackgroundVertical)$
-        parallaxBackgroundVertical: '$parallaxBackgroundVertical$',
-$endif$
-$if(width)$
-        // The "normal" size of the presentation, aspect ratio will be preserved
-        // when the presentation is scaled to fit different resolutions. Can be
-        // specified using percentage units.
-        width: $width$,
-$endif$
-$if(height)$
-        height: $height$,
-$endif$
-$if(margin)$
-        // Factor of the display size that should remain empty around the content
-        margin: $margin$,
-$endif$
-$if(minScale)$
-        // Bounds for smallest/largest possible scale to apply to content
-        minScale: $minScale$,
-$endif$
-$if(maxScale)$
-        maxScale: $maxScale$,
-$endif$
+        backgroundTransition: 'default', // none/fade/slide/convex/concave/zoom
 
-$if(plugin-menu)$
         menu: {
-$if(menu-side)$
-          side: $menu-side$,
-$endif$   
-$if(menu-numbers)$
-          numbers: $menu-numbers$,
-$endif$    
-$if(menu-titleSelector)$
-          titleSelector: $menu-titleSelector$,
-$endif$    
-$if(menu-hideMissingTitles)$
-          hideMissingTitles: $menu-hideMissingTitles$,
-$endif$    
-$if(menu-markers)$
-          markers: $menu-markers$,
-$endif$    
-$if(menu-openButton)$
-          openButton: $menu-openButton$,
-$endif$    
-$if(menu-openSlideNumber)$
-          openSlideNumber: $menu-openSlideNumber$,
-$endif$    
-$if(menu-keyboard)$
-          keyboard: $menu-keyboard$,
-$endif$ 
+          side: 'left',
+   
+    
+    
+    
+    
+    
+    
+ 
           custom: false,
           themes: false,
           transitions: false
         },
 
-$endif$
 
-$if(plugin-chalkboard)$
 
         chalkboard: {
-$if(chalkboard-src)$
-          src: $chalkboard-src$,
-$endif$
-$if(chalkboard-readOnly)$
-          readOnly: $chalkboard-readOnly$,
-$endif$
-$if(chalkboard-toggleNotesButton)$
-          toggleNotesButton: $chalkboard-toggleNotesButton$,
-$endif$
-$if(chalkboard-toggleChalkboardButton)$
-          toggleChalkboardButton: $chalkboard-toggleChalkboardButton$,
-$endif$
-$if(chalkboard-transition)$
-          transition: $chalkboard-transition$,
-$endif$
-$if(chalkboard-theme)$
-          theme: $chalkboard-theme$,
-$endif$
-$if(chalkboard-color)$
-          color: $chalkboard-color$,
-$endif$
-$if(chalkboard-background)$
-          background: $chalkboard-background$,
-$endif$
-$if(chalkboard-pen)$
-          pen: $chalkboard-pen$,
-$endif$
+          theme: 'whiteboard',
         },
 
         keyboard: {
@@ -757,42 +653,26 @@ $endif$
            8: function() { RevealChalkboard.reset() },    // reset chalkboard data on current slide when 'BACKSPACE' is pressed
           68: function() { RevealChalkboard.download() }, // downlad recorded chalkboard drawing when 'd' is pressed
         },
-$endif$
 
         // Optional reveal.js plugins
         dependencies: [
 //          { src: 'assets/libs/quiz/js/quiz.js', async: true, callback: function() { prepareQuizzes({}); } }, // by @sung
 //          { src: 'assets/libs/toc-progress/toc-progress.js', async: true, callback: function() { toc_progress.initialize(); toc_progress.create(); } }, // by @sung
 //          { src: 'assets/libs/reveal.js-toolbar/toolbar.js' }, // by @sung
-$if(plugin-notes)$
-          { src: '$revealjs-url$/plugin/notes/notes.js', async: true },
-$endif$
-$if(plugin-search)$
-          { src: '$revealjs-url$/plugin/search/search.js', async: true },
-$endif$
-$if(plugin-zoom)$
-          { src: '$revealjs-url$/plugin/zoom-js/zoom.js', async: true },
-$endif$
-$if(plugin-chalkboard)$
-          { src: '$revealjs-url$/plugin/chalkboard/chalkboard.js', async: true },
-$endif$
-$if(plugin-menu)$
-          { src: '$revealjs-url$/plugin/menu/menu.js', async: true },
-$endif$
+          { src: 'libs/reveal.js-3.3.0.1/plugin/chalkboard/chalkboard.js', async: true },
+          { src: 'libs/reveal.js-3.3.0.1/plugin/menu/menu.js', async: true },
         ]
       });
     </script>
-$if(mathjax-url)$
   <!-- dynamically load mathjax for compatibility with self-contained -->
   <script>
     (function () {
       var script = document.createElement("script");
       script.type = "text/javascript";
-      script.src  = "$mathjax-url$";
+      script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
       document.getElementsByTagName("head")[0].appendChild(script);
     })();
   </script>
-$endif$
 
 <script>
   (function() {
@@ -805,9 +685,6 @@ $endif$
   })();
 </script>
 
-$for(include-after)$
-$include-after$
-$endfor$
 
   </body>
 </html>
