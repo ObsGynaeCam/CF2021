@@ -23,7 +23,7 @@ $(window).load(function(){
             swal("Thanks!", "Enjoy the quiz.", "success");
         } else {
             // swal("No problem!", "Please visit our stall after having the quiz :)", "error");
-            swal("No problem!", "Please visit our <a href='https://obsgynaecam.github.io/CF2021/'>Cambridge Festival 2021 website</a> after having the quiz :)", "success");
+            swal("No problem!", "Please visit our Cambridge Festival 2021 website after having the quiz :)", "success");
         }
     });
 });
