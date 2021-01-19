@@ -61,7 +61,7 @@ quiz = {
                 {"option": "Most bacteria",    "correct": false},
                 {"option": "Some viruses",    "correct": true},
                 {"option": "Nutrients and oxygen",    "correct": true},
-                {"option": "Nicotine",    "correct": false},
+                {"option": "Nicotine",    "correct": true},
                 {"option": "Stress hormones",    "correct": true},
                 {"option": "Antibodies",     "correct": true} // no comma here
             ],
