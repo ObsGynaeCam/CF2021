@@ -5,6 +5,8 @@ navbar:
   left:
     - icon : fa-home fa-lg
       href: index.html
+    - icon : fa-youtube fa-lg
+      href: handson1.html
   right:
     - icon: fa-envelope fa-lg
       href: https://www.obgyn.cam.ac.uk/contact-us/ 
@@ -12,7 +14,7 @@ navbar:
       href: https://github.com/ObsGynaeCam
     - icon: fa-twitter fa-lg
       href: https://twitter.com/ObsGynaeCam 
-    - icon: fa-facebook a-lg
+    - icon: fa-facebook fa-lg
       href: https://www.facebook.com/ObsGynaeCam 
 output:
   html_document:
