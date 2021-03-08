@@ -6,7 +6,7 @@ navbar:
     - icon : fa-home fa-lg
       href: index.html
     - icon : fa-youtube fa-lg
-      href: handson1.html
+      href: nine-month-phone-call.html
   right:
     - icon: fa-envelope fa-lg
       href: https://www.obgyn.cam.ac.uk/contact-us/ 
@@ -21,3 +21,5 @@ output:
     theme: flatly # [paper, darkly]
     css: 'styles.css'
     keep_md: yes
+    toc: TRUE
+    toc_float: TRUE
