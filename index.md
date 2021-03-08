@@ -44,5 +44,5 @@ At the [Department of Obstetrics and Gynaecology](https://www.obgyn.cam.ac.uk/),
 * This project was initially funded by [Public Engagment Starter Fund in 2019](https://www.cam.ac.uk/public-engagement/information-for-staff-and-students/public-engagement-starter-fund-0), University of Cambridge
 <br><br><br>
 
-***
-<img align="left" wdith="360" height="300" src="img/Yellow-03.jpg">
+![logo](images/Cam Festival + University logo Lockup Bar_Cam Fest Partner - Sky blue.png)
+<!--<img align="left" wdith="360" height="300" src="img/Yellow-03.jpg">-->

@@ -22,3 +22,11 @@ At the [Department of Obstetrics and Gynaecology](https://www.obgyn.cam.ac.uk/),
 * [Mum](slide-and-quiz/mother.html)
 * [Baby](slide-and-quiz/baby.html)
 * [Placenta](slide-and-quiz/placenta.html)
+
+## Acknowledgement
+***
+* This project was initially funded by [Public Engagment Starter Fund in 2019](https://www.cam.ac.uk/public-engagement/information-for-staff-and-students/public-engagement-starter-fund-0), University of Cambridge
+<br><br><br>
+
+![logo](images/Cam Festival + University logo Lockup Bar_Cam Fest Partner - Sky blue.png)
+<!--<img align="left" wdith="360" height="300" src="img/Yellow-03.jpg">-->
