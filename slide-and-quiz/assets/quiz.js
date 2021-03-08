@@ -343,11 +343,11 @@ var $dummy = $("<div>")
     .html('<div id = "social-text">Did you like the quiz? Share your results with your friends, so they can give it a shot!</div>')
     .appendTo($results_slide);
 
-  var $twitter_link = $('<a>')
+  var $twitter_link = $('<a target="_blank">')
     .html('<span class="social social-twitter follow-tw"></span>')
     .appendTo($social);
 
-  var $facebook_link = $('<a>')
+  var $facebook_link = $('<a target="_blank">')
     .html('<span class="social social-facebook follow-fb"></span>')
     .appendTo($social);
 
@@ -414,7 +414,7 @@ function tweet(state, opts) {
     "I got " + state.correct +
     " out of " + state.total +
     " on @ObsGynaeCam’s \"" + opts.title +
-    "\" quiz. Test your knowledge here: " + opts.url
+    "\" quiz, an @cambridge_Fest 2021 event. Test your knowledge here: " + opts.url
   );
 
   return (
