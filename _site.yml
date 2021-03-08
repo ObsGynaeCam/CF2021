@@ -23,3 +23,5 @@ output:
     keep_md: yes
     toc: TRUE
     toc_float: TRUE
+    includes:
+      in_header: GA_Script.html
