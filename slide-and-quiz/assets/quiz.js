@@ -9,7 +9,7 @@
 var stallAttend=0;
 $(window).load(function(){
     swal({
-            title: "Have you looked at our on-line presentation yet?",
+            title: "Have you looked at our presentation?",
             type: "info",
             showCancelButton: true,
             confirmButtonText: "Yes",
