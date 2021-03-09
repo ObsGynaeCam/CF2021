@@ -6,10 +6,12 @@ author: |
   | [Clinical School](https://www.medschl.cam.ac.uk/)
   | [University of Cambridge](https://www.cam.ac.uk)
 #date: "`r Sys.Date()`"
-date: "1 Mar 2021"
+date: "26 Mar 2021"
 output: 
     revealjs::revealjs_presentation: # global option _output.yaml
         theme: serif # [white, black, sky, simple, league, night, moon, solarized]
+        includes:
+            in_header: GA_Script.html
 ---
 ```{r setup, include=FALSE, message=FALSE, warning=FALSE}
 library(knitr)

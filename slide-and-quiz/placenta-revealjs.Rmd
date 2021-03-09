@@ -17,6 +17,8 @@ output:
             slideNumber: true
         self_contained: false
         reveal_plugins: ["chalkboard","zoom"] # , "chalkboard"] # 'menu' does not work with quiz
+        includes:
+            in_header: GA_Script.html
 ---
 ```{r setup, include=FALSE, message=FALSE, warning=FALSE}
 library(knitr)
