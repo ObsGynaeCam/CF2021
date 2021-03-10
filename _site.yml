@@ -5,6 +5,8 @@ navbar:
   left:
     - icon : fa-home fa-lg
       href: index.html
+    - icon : fa-file-powerpoint fa-lg
+      href: it-takes-three-to-tango.html
     - icon : fa-youtube fa-lg
       href: nine-month-phone-call.html
   right:
