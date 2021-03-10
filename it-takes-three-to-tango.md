@@ -22,8 +22,15 @@ At the [Department of Obstetrics and Gynaecology](https://www.obgyn.cam.ac.uk/),
 * Mum - coming soon
 * [Baby](slide-and-quiz/baby.html)
 * [Placenta](slide-and-quiz/placenta.html)
+<br><br><br>
 
-## Acknowledgement
+# Useful links 
+***
+* [Source code](https://github.com/ObsGynaeCam/CF2021) - this event is an open source project.
+* [Previous event](https://sung.github.io/CamObsGynCSF2020/) - Science Festival 2020 from us.
+<br><br><br>
+
+# Acknowledgement
 ***
 * This project was initially funded by [Public Engagment Starter Fund in 2019](https://www.cam.ac.uk/public-engagement/information-for-staff-and-students/public-engagement-starter-fund-0), University of Cambridge
 <br><br><br>
