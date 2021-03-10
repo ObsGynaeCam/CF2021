@@ -19,7 +19,7 @@ At the [Department of Obstetrics and Gynaecology](https://www.obgyn.cam.ac.uk/),
 
 # On-line presentations and quizzes
 ***
-* [Mum](slide-and-quiz/mother.html)
+* Mum - coming soon
 * [Baby](slide-and-quiz/baby.html)
 * [Placenta](slide-and-quiz/placenta.html)
 
