@@ -18,12 +18,12 @@ knitr::opts_chunk$set(cache=TRUE, echo = FALSE, message=FALSE, warning=FALSE) # 
 # Mum is pregnant! {data-background=images/B_preg1.png}
 - Mum has a new baby in her belly and you will have a little brother or sister to play with.
 - The baby will grow in mum’s belly for 9 months, which are divided into three 3-month periods, called **TRIMESTERS**.
-- ![trimester](images/mum_trimester.png)
+- ![trimester](../images/mum_trimester.png)
 
 # First trimester (3-12 weeks) {data-background=images/kelly-sikkema-IE8KfewAp-w-unsplash.jpg}
 - Mum might feel unwell some days, but it’s all normal: she is getting used to the new baby growing inside her.
 - It is very important that mum attends all the recommended antenatal visits
-- ![chart](images/mum_antenatal_chart.png)
+- ![chart](../images/mum_antenatal_chart.png)
 
 # Test for mum and the baby 
 - Mum’s belly will be measured to check that the baby is growing as expected.

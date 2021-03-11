@@ -50,7 +50,7 @@ knitr::opts_chunk$set(cache=TRUE, echo = FALSE, message=FALSE, warning=FALSE) # 
 - Some cells from the embryo will form the baby’s side of the placenta, by attaching to the wall of the uterus
 - The umbilical cord is formed. It provides a connection between the baby and the placenta
 
-## ![](images/first-trimester.png)
+## ![](../images/first-trimester.png)
 
 ## 
 - On the mother’s side, there is an increased blood flow to certain “blood pools”
@@ -65,7 +65,7 @@ knitr::opts_chunk$set(cache=TRUE, echo = FALSE, message=FALSE, warning=FALSE) # 
 - Larger substances, like most bacteria, cannot pass from the mother to the baby, which means that the baby is protected from most pathogens even if the mother gets infected
 - Waste products from the baby are transported via the placenta to the mother, and are then processed further in the mother’s organs
 
-## ![](images/second-trimester.png)
+## ![](../images/second-trimester.png)
 
 ## Third trimester
 - 28 to 40+ weeks
@@ -79,7 +79,7 @@ knitr::opts_chunk$set(cache=TRUE, echo = FALSE, message=FALSE, warning=FALSE) # 
 - The placenta is usually disposed afterwards. However, sometimes placentas are collected for research purposes
 - The examination of the placenta can help researchers to better understand placental function and the role the placenta plays in a healthy pregnancy, and to develop new tests and therapies to prevent any placenta-related problems in pregnancy
 
-## ![](images/delivery.png)
+## ![](../images/delivery.png)
 
 # References
 > - NHS: https://www.nhs.uk/common-health-questions/pregnancy/what-is-the-placenta/
