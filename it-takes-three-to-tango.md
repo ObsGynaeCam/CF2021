@@ -20,7 +20,7 @@ title: "It Takes Three To Tango"
 
 # On-line presentations and quizzes
 ***
-* Mum - coming soon
+* [Mum](slide-and-quiz/mum.html){target="_blank"}
 * [Baby](slide-and-quiz/baby.html){target="_blank"}
 * [Placenta](slide-and-quiz/placenta.html){target="_blank"}
 <br><br><br>
