@@ -21,9 +21,15 @@ title: "It Takes Three To Tango"
 # On-line presentations and quizzes
 ***
 * Mum - coming soon
-* [Baby](slide-and-quiz/baby.html)
-* [Placenta](slide-and-quiz/placenta.html)
+* [Baby](slide-and-quiz/baby.html){target="_blank"}
+* [Placenta](slide-and-quiz/placenta.html){target="_blank"}
 <br><br><br>
+
+# We would love to hear from you
+***
+> Please give us some [feedback](https://www.surveymonkey.co.uk/r/HZDJ778) for us to improve bettter next time.
+
+<br><br>
 
 # Useful links 
 ***

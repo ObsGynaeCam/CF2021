@@ -1,4 +1,6 @@
     revealjs::revealjs_presentation:
+        includes:
+            in_header: GA_Script.html
         template: revealjs-default-template.html
         lib_dir: libs 
         widescreen: true

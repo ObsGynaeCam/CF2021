@@ -88,3 +88,7 @@ knitr::opts_chunk$set(cache=TRUE, echo = FALSE, message=FALSE, warning=FALSE) # 
 
 # Quiz
   <script data-quiz src="quizzes/placenta-quiz.js"></script>
+
+# We would love to hear from you
+> Please give us some for us to improve bettter next time: [click here](https://www.surveymonkey.co.uk/r/HZDJ778). 
+

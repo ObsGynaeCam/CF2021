@@ -3,7 +3,7 @@ title: "The Cambridge Festival 2021 from the Dept of Obstetrics & Gynaecology"
 ---
 
 > Hello! 
-> We are scientists from the [Department of Obs & Gynae](https://www.obgyn.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/) and we run an online event for [Cambridge Festival](https://www.sciencefestival.cam.ac.uk/). 
+> We are scientists from the [Department of Obs & Gynae](https://www.obgyn.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/) and we run an online event for [the Cambridge Festival 2021](https://www.sciencefestival.cam.ac.uk/). 
 
 # Description
 ***
@@ -21,7 +21,7 @@ title: "The Cambridge Festival 2021 from the Dept of Obstetrics & Gynaecology"
 
 # On-line presentations and quizzes
 ***
-* Mum - coming soon
+* [Mum](slide-and-quiz/mum.html){target="_blank"}
 * [Baby](slide-and-quiz/baby.html)
 * [Placenta](slide-and-quiz/placenta.html)
 <br><br><br>
@@ -33,6 +33,12 @@ title: "The Cambridge Festival 2021 from the Dept of Obstetrics & Gynaecology"
 [![nine-month-phone-call](img/baby-and-placenta.jpg)](nine-month-phone-call.html)
 
 <br><br><br>
+
+# We would love to hear from you
+***
+> Please give us some [feedback](https://www.surveymonkey.co.uk/r/HZDJ778) for us to improve bettter next time.
+
+<br><br>
 
 # Useful links 
 ***
