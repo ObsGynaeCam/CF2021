@@ -16,36 +16,39 @@ knitr::opts_chunk$set(cache=TRUE, echo = FALSE, message=FALSE, warning=FALSE) # 
 ```
 
 # Mum is pregnant! {data-background=images/B_preg1.png}
-- Mum has a new baby in her belly and you will have a little brother or sister to play with.
-- The baby will grow in mum’s belly for 9 months, which are divided into three 3-month periods, called **TRIMESTERS**.
+- The pregnancy will last approximately 9 months, which are divided into three 3-month periods, called **TRIMESTERS**.
+- The baby will grow in mum’s uterus, in the lower part of her abdomen.
+- During pregnancy, her uterus expands and the walls of the uterus thicken to make room and support the baby. 
 - ![trimester](../images/mum_trimester.png)
 
-# First trimester (3-12 weeks) {data-background=images/kelly-sikkema-IE8KfewAp-w-unsplash.jpg}
-- Mum might feel unwell some days, but it’s all normal: she is getting used to the new baby growing inside her.
-- It is very important that mum attends all the recommended antenatal visits
+# First trimester (1-3 months) {data-background=images/kelly-sikkema-IE8KfewAp-w-unsplash.jpg}
+- Mum might feel unwell some days, but it’s all normal: her body is adapting and changing in order to support the baby’s growth. 
+- It is very important that mum attends all the recommended antenatal visits:
 - ![chart](../images/mum_antenatal_chart.png)
 
 # Test for mum and the baby 
 - Mum’s belly will be measured to check that the baby is growing as expected.
-- Mum’s blood pressure will be measured to make sure she doesn’t feel dizzy and unwell. 
+- Mum’s blood pressure will be measured to make sure it's not too high or now. 
 - Mum’s pee will be tested to check that there are no dangerous substances in there.
 - A special machine, called Ultrasound Scanner, will be used to see the baby inside mum’s belly and to measure his/her size.
 
-# Second trimester (13-27 weeks) {data-background=images/freestocks-ux53SGpRAHU-unsplash.jpg}
-- Mum’s belly is starting to grow, and the baby is starting to move inside her belly.
-- If you put your hand on mum’s belly, you might start feeling some kicks and punches in there!
-- It’s important to pay attention to the baby’s movements. if they decrease or change, mum should get in touch with the midwives because the baby might be unwell.
+# Second trimester (4-6 months) {data-background=images/freestocks-ux53SGpRAHU-unsplash.jpg}
+- Mum’s belly is starting to grow as the baby is getting bigger.
+- The baby is also starting to move.
+- It’s important to pay attention to the baby’s movements.
+- If they decrease or change, mum should get in touch with the midwives because the baby might be unwell.
 
-# Third trimester (28-40 weeks) {data-background=images/christian-bowen-I0ItPtIsVEE-unsplash.jpg}
-- Now mum’s belly is quite big as the baby has been growing for several months.
-- Mum might feel tired sometimes because she carries around this extra weight.
-- Not too long to wait now: the new baby will be with the family soon!
+# Third trimester (7-9 months) {data-background=images/christian-bowen-I0ItPtIsVEE-unsplash.jpg}
+- Baby is maturing and getting ready to be born.
+- It is fairly common for a baby to be positioned head-up in mum’s uterus, with the feet pointed towards the birth canal. 
+- At the end of pregnancy he/she will automatically turn into a head-down position to prepare for birth.
+- At birth, the baby is about 45-55cm long and weighs about 2.5-4.5kg.
 
 # Good nutrition and habits (1/2)
-- Mum should have a healthy diet to support herself and the baby.
+- Mum should have a **healthy diet** to support herself and the baby.
 - Food should be prepared in a clean environment; vegetables and fruits should be washed carefully; meat, fish and eggs should be cooked well. 
 - Midwife/doctor’s recommendations should be followed regarding supplements in pregnancy.
-- Mum should keep up her normal daily physical activity or exercise (sport, running, yoga, dancing, walking) for as long as she feels comfortable, but she should not exhaust herself: exercise is not dangerous for the baby!
+- Mum should keep up her **normal daily physical activity or exercise** (e.g. sport, running, yoga, dancing, walking) for as long as she feels comfortable, but she should not exhaust herself: exercise is not dangerous for the baby!
 
 # Good nutrition and habits (2/2)
 - She should eat a variety of different foods every day to provide the right balance of nutrients that she and the baby need, including:
@@ -68,5 +71,5 @@ knitr::opts_chunk$set(cache=TRUE, echo = FALSE, message=FALSE, warning=FALSE) # 
 <iframe src="pregnancy_quiz.html" title="mum quiz" style="top:0; left:0; bottom:0; right:0; width:100%; height:600px; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">Your browser doesn't support iframes.<br>Try <a href="https://obsgynaecam.github.io/CF2021/slide-and-quiz/pregnancy_quiz.html"</iframe>
 
 # We would love to hear from you
-> Please give us some for us to improve bettter next time: [click here](https://www.surveymonkey.co.uk/r/HZDJ778). 
+> Please give us some [feedback through a short survey](https://www.surveymonkey.co.uk/r/HZDJ778). This will help us to develop our event further.
 

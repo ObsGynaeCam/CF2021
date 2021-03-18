@@ -28,16 +28,17 @@ title: "Pregnancy: A nine month phone call"
 - [Mum and baby](images/mum_baby_colouring.jpg)
 <br><br><br>
 
+
 # We would love to hear from you
 ***
-> Please give us some [feedback](https://www.surveymonkey.co.uk/r/HZDJ778) for us to improve bettter next time.
+> Please give us some [feedback through a short survey](https://www.surveymonkey.co.uk/r/HZDJ778). This will help us to develop our event further.
 
 <br><br>
 
 # Useful links 
 ***
 * [Source code](https://github.com/ObsGynaeCam/CF2021) - this event is an open source project.
-* [Previous event](https://sung.github.io/CamObsGynCSF2020/) - Science Festival 2020 from us.
+* [Previous event](https://sung.github.io/CamObsGynCSF2020/) - The Science Festival 2020 from us.
 <br><br><br>
 
 # Acknowledgement

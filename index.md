@@ -24,16 +24,17 @@ title: "The Cambridge Festival 2021 from the Dept of Obstetrics & Gynaecology"
 [![nine-month-phone-call](img/baby-and-placenta.jpg)](nine-month-phone-call.html)
 <br><br><br>
 
+
 # We would love to hear from you
 ***
-> Please give us some [feedback](https://www.surveymonkey.co.uk/r/HZDJ778) for us to improve bettter next time.
+> Please give us some [feedback through a short survey](https://www.surveymonkey.co.uk/r/HZDJ778). This will help us to develop our event further.
 
 <br><br>
 
 # Useful links 
 ***
 * [Source code](https://github.com/ObsGynaeCam/CF2021) - this event is an open source project.
-* [Previous event](https://sung.github.io/CamObsGynCSF2020/) - Science Festival 2020 from us.
+* [Previous event](https://sung.github.io/CamObsGynCSF2020/) - The Science Festival 2020 from us.
 <br><br><br>
 
 # Acknowledgement

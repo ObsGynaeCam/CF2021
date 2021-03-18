@@ -25,16 +25,17 @@ title: "It Takes Three To Tango"
 * [Placenta](slide-and-quiz/placenta.html){target="_blank"}
 <br><br><br>
 
+
 # We would love to hear from you
 ***
-> Please give us some [feedback](https://www.surveymonkey.co.uk/r/HZDJ778) for us to improve bettter next time.
+> Please give us some [feedback through a short survey](https://www.surveymonkey.co.uk/r/HZDJ778). This will help us to develop our event further.
 
 <br><br>
 
 # Useful links 
 ***
 * [Source code](https://github.com/ObsGynaeCam/CF2021) - this event is an open source project.
-* [Previous event](https://sung.github.io/CamObsGynCSF2020/) - Science Festival 2020 from us.
+* [Previous event](https://sung.github.io/CamObsGynCSF2020/) - The Science Festival 2020 from us.
 <br><br><br>
 
 # Acknowledgement
@@ -44,3 +45,4 @@ title: "It Takes Three To Tango"
 
 ![logo](images/Cam Festival + University logo Lockup Bar_Cam Fest Partner - Sky blue.png)
 <!--<img align="left" wdith="360" height="300" src="img/Yellow-03.jpg">-->
+
