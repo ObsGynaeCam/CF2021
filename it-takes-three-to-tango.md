@@ -10,8 +10,6 @@ title: "It Takes Three To Tango"
 <img width="460" height="360" src="img/take3_to_tango.png">
 </p>
 
->Learn about the key players in a healthy pregnancy: the mum, the baby and the placenta. Discuss the latest research at the [Department of Obstetrics & Gynaecology](https://www.obgyn.cam.ac.uk/) and understand the role of the placenta through interactive hands-on activities.
-
 >[Placenta](https://en.wikipedia.org/wiki/Placenta) is a very important organ, yet often overlooked. At our interactive display you can learn how the placenta looks like and what jobs it performs. Kids and parents can have a go at our info-quizzes. You will also have an opportunity to learn interactively about healthy diet and lifestyle during pregnancy and about antenatal care and the baby’s development. We will demonstrate the assessment of fetal growth using various methods and you will have a chance to examine ultrasound images of babies.
 
 >At the [Department of Obstetrics and Gynaecology](https://www.obgyn.cam.ac.uk/), we do research on the biology and the function of the placenta. We also conduct large population studies which aim at identifying key features that could predict problems in pregnancy. Our ultimate goal is to find better ways of helping mums to give birth to healthy babies.

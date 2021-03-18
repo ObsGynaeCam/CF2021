@@ -2,7 +2,7 @@
 title: "Pregnancy: A nine month phone call"
 ---
 
-> Have a go at colouring these pages while you learn more about the placenta and how it connects the mum and baby through our [video](#video) and [colouring papers](#colouring). The activity is suitable for younger children who already know where babies come from, but doesn’t require any detailed biological knowledge.)
+> Have a go at colouring these pages while you learn more about the placenta and how it connects the mum and baby through our [video](#video) and [colouring papers](#colouring). The activity is suitable for younger children who already know where babies come from, but doesn’t require any detailed biological knowledge.
 
 # Description
 ***
