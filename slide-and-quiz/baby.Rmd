@@ -102,6 +102,6 @@ The baby will gain more weight, and prepare for delivery.<br>
 # Quiz
 <iframe src="baby_quiz.html" title="baby quiz" style="top:0; left:0; bottom:0; right:0; width:100%; height:600px; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">Your browser doesn't support iframes.<br>Try <a href="https://obsgynaecam.github.io/CF2021/slide-and-quiz/baby_quiz.html"</iframe>
 
-# We would love to hear from you
-> Please give us some [feedback through a short survey](https://www.surveymonkey.co.uk/r/HZDJ778). This will help us to develop our event further.
-
+# Thank you for visiting us
+> - Please give us some <u>[feedback through a short survey](https://www.surveymonkey.co.uk/r/HZDJ778)</u>. This will help us to develop our event further.
+> - Please see <u>[this](https://github.com/ObsGynaeCam/CF2021/)</u> if you'd like to how how it was made. 

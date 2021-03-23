@@ -342,7 +342,7 @@ var $dummy = $("<div>")
 
   var $links = $("<div>")
     .attr('class', 'results-social')
-    .html('<div id = "links-text">To find out more, read <a target="_blank" href="https://www.tommys.org/pregnancy-information/im-pregnant/early-pregnancy/10-pregnancy-myths"><em>this article</em></a> about pregnancy myths, <a target="_blank" href="https://www.nhs.uk/conditions/pregnancy-and-baby/ultrasound-anomaly-baby-scans-pregnant/"><em>this NHS article</em></a> about untrasound scan, and <a target="_blank" href="https://www.bbc.co.uk/bitesize/guides/z9fgr82/revision/5"><em>this BBC site</em></a> for fetal reproduction and birth.</div>')
+    .html('<div id = "links-text">To find out more, read <a target="_blank" href="https://www.tommys.org/pregnancy-information/im-pregnant/early-pregnancy/10-pregnancy-myths"><em>this article</em></a> about pregnancy myths, <a target="_blank" href="https://www.nhs.uk/conditions/pregnancy-and-baby/ultrasound-anomaly-baby-scans-pregnant/"><em>this NHS article</em></a> about ultrasound scan, and <a target="_blank" href="https://www.bbc.co.uk/bitesize/guides/z9fgr82/revision/5"><em>this BBC site</em></a> for human reproduction and birth.</div>')
     .appendTo($results_slide);
 
   var $social = $("<div>")
