@@ -1,5 +1,5 @@
 ---
-title: "<font color='black'>It takes three to tango:<br>the placenta!</font>"
+title: "<font color='black'><b>It takes three to tango:<br>the placenta!</b></font>"
 author: |
   | [Dept. of Obs & Gynae](https://www.obgyn.cam.ac.uk/){target="_blank"}
   | [Clinical School](https://www.medschl.cam.ac.uk/)
@@ -37,7 +37,10 @@ knitr::opts_chunk$set(cache=TRUE, echo = FALSE, message=FALSE, warning=FALSE) # 
 - Some cells from the embryo will form the baby’s side of the placenta, by attaching to the wall of the uterus
 - The umbilical cord is formed. It provides a connection between the baby and the placenta
 - On the mother’s side, there is an increased blood flow to certain “blood pools”
-- The baby’s and mother’s blood will actually never mix. They will be separated via blood vessel walls in these “blood pools”. The vessel wall will, however, allow small substances, like oxygen and sugar, to pass between the mother to the baby
+
+## First trimester (continued)
+- The baby’s and mother’s blood will actually never mix. They will be separated via blood vessel walls in these “blood pools”
+- The vessel wall will, however, allow small substances, like oxygen and sugar, to pass between the mother to the baby
 - At end of the first trimester, the baby gets a full blood supply from the placenta
 
 ## ![](../images/first-trimester.png)
@@ -61,9 +64,9 @@ knitr::opts_chunk$set(cache=TRUE, echo = FALSE, message=FALSE, warning=FALSE) # 
 ## ![](../images/delivery.png)
 
 # References
-> - NHS: https://www.nhs.uk/common-health-questions/pregnancy/what-is-the-placenta/
-> - Cambridge University: https://www.cam.ac.uk/research/news/understanding-the-placenta-the-key-to-healthy-life
-> - BBC: https://www.bbc.co.uk/bitesize/guides/z9fgr82/revision/5
+> - [NHS](https://www.nhs.uk/common-health-questions/pregnancy/what-is-the-placenta/)
+> - [Cambridge University](https://www.cam.ac.uk/research/news/understanding-the-placenta-the-key-to-healthy-life)
+> - [BBC](https://www.bbc.co.uk/bitesize/guides/z9fgr82/revision/5)
 
 # Quiz
 <iframe src="placenta_quiz.html" title="placenta quiz" style="top:0; left:0; bottom:0; right:0; width:100%; height:600px; border:none; margin:0; padding:0; overflow:hidden; z-index:999999;">Your browser doesn't support iframes.<br>Try <a href="https://obsgynaecam.github.io/CF2021/slide-and-quiz/placenta_quiz.html"</iframe>
