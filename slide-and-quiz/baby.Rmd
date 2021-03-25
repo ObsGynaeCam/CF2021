@@ -104,4 +104,4 @@ The baby will gain more weight, and prepare for delivery.<br>
 
 # Thank you for visiting us
 > - Please give us some <u>[feedback through a short survey](https://www.surveymonkey.co.uk/r/HZDJ778)</u>. This will help us to develop our event further.
-> - Please see <u>[this](https://github.com/ObsGynaeCam/CF2021/)</u> if you'd like to how how it was made. 
+> - Please see <u>[this](https://github.com/ObsGynaeCam/CF2021/)</u> if you'd like to know how it was made. 
